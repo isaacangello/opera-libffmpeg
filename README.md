@@ -1,0 +1,8 @@
+# opera-libffmpeg
+This package contains a correction for the Opera Browser, 
+updates the support for videos, eliminating errors when 
+trying to view video on specific website and on youtube.
+
+References:
+https://www.youtube.com/watch?v=RLjSreMQ6cU
+https://github.com/iteufel/nwjs-ffmpeg-prebuilt/releases
